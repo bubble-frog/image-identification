@@ -1,0 +1,10 @@
+body{
+    background-image:url("bg.jpg");
+    background-size:cover;
+    color:white;
+    font-size:36px;
+}
+
+.heading{
+    width:70%;
+}
